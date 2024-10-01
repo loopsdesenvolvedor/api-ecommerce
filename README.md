@@ -15,4 +15,4 @@ O banco de dados utilizado é o Firebase.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/loopsdesenvolvedor/api-ecommerce.git
