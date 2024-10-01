@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon src/index"
+    "start": "npx tsc-watch --onSuccess \"node ./lib/index.js\""
   },
   "dependencies": {
     "express": "^4.21.0"
