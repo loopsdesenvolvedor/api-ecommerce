@@ -7,6 +7,7 @@
     "start": "npx tsc-watch --onSuccess \"node --env-file=.env ./lib/index.js\""
   },
   "dependencies": {
+    "express": "^4.21.0",
     "firebase-admin": "^12.6.0"
   },
   "devDependencies": {
